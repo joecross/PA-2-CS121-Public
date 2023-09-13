@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (PA 1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.c
+C:\Users\cross\source\repos\PA 2\PA 2 CS121 Public\PA 2\main.c(28,56): warning C4020: 'calculate_newtons_2nd_law': too many actual parameters
+C:\Users\cross\source\repos\PA 2\PA 2 CS121 Public\PA 2\main.c(41,9): warning C4477: 'printf' : format string '%.2lf' requires an argument of type 'double', but variadic argument 1 has type 'int'
+  PA 2.vcxproj -> C:\Users\cross\source\repos\PA 2\x64\Debug\PA 2.exe
